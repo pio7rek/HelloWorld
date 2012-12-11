@@ -10,7 +10,8 @@
 using namespace std;
 
 int main() {
-	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
-	cout << "Ala ma kota! orly?" << endl;
+	cout << "!!!Hello World!!!\n"; // prints !!!Hello World!!!
+	cout << "Ala ma kota! orly?\n";
+	cout << "Ya Rly!!!" << endl;
 	return 0;
 }
