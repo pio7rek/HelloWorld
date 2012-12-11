@@ -12,6 +12,5 @@ using namespace std;
 int main() {
 	cout << "!!!Hello World!!!\n"; // prints !!!Hello World!!!
 	cout << "Ala ma kota! orly?\n";
-	cout << "Ya Rly!!!" << endl;
 	return 0;
 }
